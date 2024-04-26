@@ -1,0 +1,20 @@
+*{
+    background-color: #E5EDF3;
+    font-family: "josefin-sans", sans-serif;
+    
+}
+
+h1 {
+    font-family: "josefin-slab", serif;
+
+}
+
+iframe {
+    width: 800px;
+    margin: auto;
+}
+
+.container{
+    width: 1000px;
+    margin: auto;
+}
